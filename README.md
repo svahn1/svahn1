@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @svahn1
 - 👀 I’m interested in hunting, home automation, gaming and coding
-- 🌱 I’m currently learning Unity
 - 📫 How to reach me fredriksvahn@outlook.com
 
 <!---
